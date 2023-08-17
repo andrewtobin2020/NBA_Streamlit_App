@@ -10,4 +10,4 @@ The only preparation I needed to do was change centimeters to inches and kilogra
 Future work:
 I would like to explore relationships more (i.e. draft position and points per game average among others)
 
-App link: https://nbaappapp-ztzmg6r8ux6dm6knv8bwma.streamlit.app/
+App link: https://nbaappapp-nryagwcakasgqe3qgfqsu8.streamlit.app/
