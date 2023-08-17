@@ -16,7 +16,6 @@ col1, col2 = st.columns(2)
 with col1:
     st.markdown("Top 10 Colleges")
     st.write(df_college.head(10).reset_index())
-    st.markdown("None refers to players who are international, were drafted straight from high school, or Americans who played overseas for a year before joining the NBA")
 
 with col2:
     st.markdown("Top 10 countries")
